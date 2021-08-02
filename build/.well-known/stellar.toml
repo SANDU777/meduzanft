@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GAZBVN6T3X2AMMXRSA3AG2FS2X7SLVSL3F2M7CAJ4GJXIMWLSMYXAR5B"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="meduzanft"
+ORG_URL="https://www.meduzanft.org"
+ORG_DESCRIPTION="Meduza is an Italian production trio consisting of Luca de Gregorio, Mattia Vitale and Simone Giani."
+ORG_TWITTER="@meduzanft"
+ORG_LOGO="https://i.ibb.co/mcgmcGy/images.jpg"
+ORG_OFFICIAL_EMAIL="meduzanft@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="MeduzaNFT"
+issuer="GAZBVN6T3X2AMMXRSA3AG2FS2X7SLVSL3F2M7CAJ4GJXIMWLSMYXAR5B"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="MeduzaNFT"
+desc="Meduza is an Italian production trio consisting of Luca de Gregorio, Mattia Vitale and Simone Giani."
+conditions=""
+image="https://i.ibb.co/mcgmcGy/images.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#MeduzaNFT was issued using the open and inclusive Stellar blockchain network.
